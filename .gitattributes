@@ -1,0 +1,4 @@
+fvm.blk filter=lfs diff=lfs merge=lfs -text
+multiboot.bin filter=lfs diff=lfs merge=lfs -text
+fuchsia-ssh.zbi filter=lfs diff=lfs merge=lfs -text
+aemu filter=lfs diff=lfs merge=lfs -text
