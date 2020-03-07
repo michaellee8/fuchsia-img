@@ -2,6 +2,12 @@
 20200306
 by michaellee8
 
+## Migrated to GitLab
+
+Migrated to GitLab since GitHub is unhappy about the LFS storage 😓.
+
+https://gitlab.com/michaellee8/fuchsia-build-image
+
 ## Instructions
 
 1. Make sure your device have Vulkan suppport.
